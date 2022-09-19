@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/goit-react-03-life-cycle/static/css/main.69490404.css",
+    "main.js": "/goit-react-03-life-cycle/static/js/main.f43902e7.js",
+    "index.html": "/goit-react-03-life-cycle/index.html",
+    "main.69490404.css.map": "/goit-react-03-life-cycle/static/css/main.69490404.css.map",
+    "main.f43902e7.js.map": "/goit-react-03-life-cycle/static/js/main.f43902e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69490404.css",
+    "static/js/main.f43902e7.js"
+  ]
+}

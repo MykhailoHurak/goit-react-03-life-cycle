@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/goit-react-03-life-cycle/static/css/main.71a4ca84.css",
-    "main.js": "/goit-react-03-life-cycle/static/js/main.323760b1.js",
+    "main.css": "/goit-react-03-life-cycle/static/css/main.676ea315.css",
+    "main.js": "/goit-react-03-life-cycle/static/js/main.19cdace6.js",
     "index.html": "/goit-react-03-life-cycle/index.html",
-    "main.71a4ca84.css.map": "/goit-react-03-life-cycle/static/css/main.71a4ca84.css.map",
-    "main.323760b1.js.map": "/goit-react-03-life-cycle/static/js/main.323760b1.js.map"
+    "static/media/delete.svg": "/goit-react-03-life-cycle/static/media/delete.5575697b2be19e4c4b67136f6fa197b3.svg",
+    "static/media/plus.svg": "/goit-react-03-life-cycle/static/media/plus.b32f3a092015d7a228e03084a624cb0b.svg",
+    "main.676ea315.css.map": "/goit-react-03-life-cycle/static/css/main.676ea315.css.map",
+    "main.19cdace6.js.map": "/goit-react-03-life-cycle/static/js/main.19cdace6.js.map"
   },
   "entrypoints": [
-    "static/css/main.71a4ca84.css",
-    "static/js/main.323760b1.js"
+    "static/css/main.676ea315.css",
+    "static/js/main.19cdace6.js"
   ]
 }

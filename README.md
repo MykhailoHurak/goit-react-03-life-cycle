@@ -1,3 +1,5 @@
+# Жизненный цикл
+
 - [Жизненный цикл компонент-классов](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
 - Методы жизненного цикла.
 - Сохранение коллекции заметок в localStorage (componentDidMount и

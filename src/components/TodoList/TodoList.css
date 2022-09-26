@@ -28,8 +28,14 @@
     border: 2px solid black;
 }
 
+.TodoList__checkbox {
+    cursor: pointer;
+    width: 16px;
+    height: 16px;
+}
+
 .TodoList__text {
-    font-size:large;
+    font-size: large;
     margin: 0;
 }
 
